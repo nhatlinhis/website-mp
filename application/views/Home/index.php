@@ -5,7 +5,8 @@
     <?php require_once "../application/views/_shared/css.php"; ?>
     <style>
         .bg-success {
-            background-color: #009aa9!important;
+            /* background-color: #009aa9!important; */
+            background-color: #009aa9;
         }
     </style>
 </head>
